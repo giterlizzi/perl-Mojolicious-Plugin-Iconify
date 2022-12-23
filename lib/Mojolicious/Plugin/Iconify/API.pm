@@ -378,7 +378,7 @@ L<https://github.com/giterlizzi/perl-Mojolicious-Plugin-Iconify>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (c) 2020-2021, Giuseppe Di Terlizzi
+Copyright (c) 2020-2022, Giuseppe Di Terlizzi
 
 This program is free software, you can redistribute it and/or modify it under
 the terms of the Artistic License version 2.0.
